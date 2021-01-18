@@ -1,8 +1,8 @@
-
+﻿
 sth happened at main branch
 change hanppenned at dev branch
 
-git 鎾ら攢
+git 撤销
 撤销工作区的修改  ---    git checkout -- filename
 撤销暂存区的修改，工作区的修改仍然在  ---    git reset HEAD filename
 撤销提交到本地仓库的修改  ---  git reset --hard HEAD^
