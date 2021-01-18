@@ -2,3 +2,8 @@ x新建文本文档
 sth happened at main branch
 change hanppenned at dev branch
 
+git 撤销
+撤销工作区修改   ---    git checkout -- filename
+撤销缓存区修改   ---    git reset HEAD filename
+撤销本地仓库的修改 ---  git reset --hard HEAD^
+
