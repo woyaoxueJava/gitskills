@@ -2,13 +2,13 @@
 sth happened at main branch
 change hanppenned at dev branch
 
-git 撤销
-撤销工作区修�?  ---    git checkout -- filename
-撤销缓存区修�?  ---    git reset HEAD filename
-撤销本地仓库的修�?---  git reset --hard HEAD^
+git 鎾ら攢
+撤销工作区的修改  ---    git checkout -- filename
+撤销暂存区的修改，工作区的修改仍然在  ---    git reset HEAD filename
+撤销提交到本地仓库的修改  ---  git reset --hard HEAD^
 
-分支切换   --- git checkout -b branchname /git switch -c branchname
-x�½��ı��ĵ�
+切换分支   --- git checkout -b branchname /git switch -c branchname
+x新建文本文档
 change hanppenned at dev branch
 
 change happenend at dev branch
